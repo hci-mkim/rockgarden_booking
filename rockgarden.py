@@ -14,8 +14,8 @@ action = ActionChains(driver)
 driver.find_element_by_xpath('//*[@id="gnb_wrap"]/div[1]/a[1]').click()
 
 #login id/pw입력
-driver.find_element_by_css_selector('#userid').send_keys('rlaalspk')
-driver.find_element_by_name('userpw').send_keys('08423346Aa!')
+driver.find_element_by_css_selector('#userid').send_keys('insert your id here')
+driver.find_element_by_name('userpw').send_keys('insert your pw here')
 
 #login 버튼클릭
 driver.find_element_by_css_selector('.type-buttom').click()
