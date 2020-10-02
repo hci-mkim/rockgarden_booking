@@ -2,10 +2,10 @@
 south korea rockgarden golf club auto booking code.
 
 ### Installation Setup
-pip install selenium
-pip install pyautogui
-pip install pause
-pip install telepot
+pip install selenium \n
+pip install pyautogui \n
+pip install pause \n
+pip install telepot \n
 
 ### TODO list for user
 1) install the selenium package and above 
