@@ -7,7 +7,7 @@ pip install pyautogui
 pip install pause
 pip install telepot
 
-# TODO list for user
+### TODO list for user
 1) install the selenium package and above 
 2) change your starting time (code 16-21 lines)
 3) insert your telegram info (token, mc)
